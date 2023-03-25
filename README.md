@@ -26,3 +26,5 @@ Ensure all requirements in the following list are met before running the eye tra
    - Most recent oculus software
    - Oculus Integration SDK version 47.0
    - Most recent software on meta quest pro
+
+Find the 360 and green screen videos here - https://gla-my.sharepoint.com/:f:/g/personal/2472112b_student_gla_ac_uk/EtinKiuG5tVAsY9JmoALAzoB-iPMkvrL59grDhON5jRWHw?e=D1Mb2z and put them in their respective folders within Assests
