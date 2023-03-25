@@ -1,9 +1,9 @@
 # Dissertation
-Unity Project For Augmented Reality Communication Aids for the Deaf and Hard of Hearing
+## Unity Project For Augmented Reality Communication Aids for the Deaf and Hard of Hearing
 
 This project was build and designed for the Meta Quest Pro mixed reality headset only
 
-How to build?
+## How to build?
 Make sure you have Unity 2021.3.16f LTS installed (with Android Build support).
 
 Clone this project.
