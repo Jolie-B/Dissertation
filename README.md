@@ -6,7 +6,7 @@ This project was build and designed for the Meta Quest Pro mixed reality headset
 ## How to build?
 Make sure you have Unity 2021.3.16f LTS installed (with Android Build support).
 
-Clone this project.
+Clone this project and checkout the master branch.
 
 Open the project with Unity, then open the Package Manager
 
